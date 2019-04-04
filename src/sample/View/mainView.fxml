@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<AnchorPane prefHeight="800.0" prefWidth="1100.0" style="-fx-background-color: #36363A;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller.MainWindowController">
+   <children>
+      <FontIcon iconLiteral="map-icon-electronics-store" iconSize="20" layoutX="10.0" layoutY="10.0" onMousePressed="#onClosePressed" text="" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+         <iconColor>
+            <RadialGradient centerX="0.4666666666666667" centerY="0.6714285714285715" radius="0.5">
+               <stops>
+                  <Stop color="#f20f0f" />
+                  <Stop color="#45dea8" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </iconColor></FontIcon>
+   </children>
+</AnchorPane>
