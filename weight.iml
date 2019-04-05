@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="org.kordamp.ikonli:ikonli-javafx:2.4.0" level="project" />
     <orderEntry type="library" name="org.kordamp.ikonli:ikonli-mapicons-pack:2.4.0" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.15" level="project" />
   </component>
 </module>
